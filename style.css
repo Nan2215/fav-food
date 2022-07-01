@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Courgette&display=swap');
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-color:white;
+    font-family: 'Chewy', cursive;
+    font-size: 1.1em;
+    margin-left: 350px;
+    margin-right: 450px;
+
+    
+}
+#titlename{
+    background-color: plum;
+    width:50vw;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 7px solid yellow;
+   
+}
+#titleImage{
+    width: 50vw;
+    height: 40vh;
+}
+ #titlename h1{
+    position: absolute;
+    margin-top: 17vh;
+    margin-left: 17vw;
+    background-color: beige;
+    font-weight: 800;
+    color:purple;
+    text-shadow : 2px 2px 3px palevioletred;
+}
+.DIV1{
+    background-color: orange;
+    width:50vw;
+    height:40vh;
+    text-align: center;
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 7px solid yellow;
+    
+
+}
+.DIV2{
+    background-color: skyblue;
+    width: 50vw;
+    height:40vh;
+    text-align: center;
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 7px solid yellow;
+
+
+}
+.DIV3{
+    background-color: plum;
+    width:50vw;
+    height:40vh;
+    text-align: center;
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 7px solid yellow;
+
+
+}
+.DIV4{
+    background-color: yellow;
+    width:50vw;
+    height:40vh;
+    text-align: center;
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 7px solid yellow;
+}
+#favFood1{
+    background-color: beige;
+    color: 2px 2px 3px plum;
+    font-weight: 700;
+    font-size: 1.5em;
+    color:purple;
+    text-shadow : 2px 2px 3px palevioletred;
+
+
+}
+#favFood2{
+    background-color: beige;
+    color: 2px 2px 3px plum;
+    font-weight: 700;
+    color:purple;
+    font-size: 1.5em;
+    text-shadow : 2px 2px 3px palevioletred;
+
+}
+#favFood3{
+    background-color: beige;
+    color: 2px 2px 3px plum;
+    font-weight: 700;
+    color:purple;
+    font-size: 1.5em;
+    text-shadow : 2px 2px 3px palevioletred;
+
+}
+
